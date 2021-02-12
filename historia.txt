@@ -1,4 +1,4 @@
-Hola, este es un archivo .txt
+Hola, éste es un archivo .txt
 
 Estoy estudiando en platzi
 
@@ -6,11 +6,11 @@ Soy Carolina, y estoy muy contenta de formar parte del grupo!
  
 Actualmente estoy en la ruta de Desarrollo Web Profesional en 2020
 
-Soy estudiante de ingenieria en sistemas
+Soy estudiante de ingeniería en sistemas
 
-En la universidad tecnologica nacional de Villa Maria
+En la Universidad Tecnólogica Nacional de Villa Maria
 
-Carolina, o sea yo, estudió en la Facultad de Ciencias exactas de la Universidad Nacional de Córdoba.
+Carolina, o sea yo, estudio en la Facultad de Ciencias Exáctas de la Universidad Nacional de Córdoba.
 
 Espera poder tener un gran aprendizaje durante su trabajo en este equipo de desarollo, junto a todos sus compañeros.
 
