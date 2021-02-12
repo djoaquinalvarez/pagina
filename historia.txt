@@ -1,6 +1,8 @@
 Hola, este es un archivo .txt
 
 Estoy estudiando en platzi
+
+Soy Carolina, y estoy muy contenta de formar parte del grupo!
  
 Actualmente estoy en la ruta de Desarrollo Web Profesional en 2020
 
